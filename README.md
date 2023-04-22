@@ -60,6 +60,11 @@
 ```
 Copilot
 Bito ChatGPT
+CICD
+Docker
+K8S
+云原生
+IDE
 ```
 
 ### 运维（付费账号，SQL 优化，错误 SQL 查找，日志，事故日志）
